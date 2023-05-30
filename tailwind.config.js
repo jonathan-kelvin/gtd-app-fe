@@ -16,6 +16,7 @@ export default {
       },
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],
+        oxygen: ['Oxygen', 'sans-serif'],
       },
     },
   },
